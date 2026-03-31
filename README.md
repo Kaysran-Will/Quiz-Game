@@ -71,7 +71,7 @@ Enter your guess: A
 
 ## Author
 
-Aayush Ranjan
+Kaysran Will
 
 ---
 
