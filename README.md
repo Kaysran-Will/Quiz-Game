@@ -68,16 +68,6 @@ Enter your guess: A
 
 ---
 
-## Future Improvements
-
-- Add a timer for each question
-- Randomize question order
-- Add difficulty levels
-- Show detailed performance summary
-- Build a GUI version (Swing/JavaFX)
-- Convert to a web-based app
-
----
 
 ## Author
 
